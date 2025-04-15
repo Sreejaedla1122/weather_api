@@ -19,6 +19,7 @@ aqi_dashboard/
 │   ├── data_loader.py      # Data loading and preprocessing
 │   └── visualization.py    # Common visualization functions
 └── README.md               # Documentation
+└── requirements.txt        # project requirements
 ```
 
 ## Installation
@@ -26,7 +27,7 @@ aqi_dashboard/
 1. Clone this repository
 2. Install dependencies:
 ```bash
-pip install streamlit pandas plotly numpy matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ## Usage
