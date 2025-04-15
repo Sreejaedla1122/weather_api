@@ -1,7 +1,7 @@
 # AQI Dashboard - Multi-page Streamlit Application
 
 This is an interactive dashboard application that visualizes Air Quality Index (AQI) data across the United States from 1980 to 2022.
-Check our deployed application here[https://weather-dashboard-api-app.streamlit.app/]
+Check our deployed application (here)[https://weather-dashboard-api-app.streamlit.app/]
 
 ## Features
 
