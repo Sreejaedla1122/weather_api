@@ -30,7 +30,7 @@ aqi_dashboard/
 ```bash
 pip install -r requirements.txt
 ```
-
+python version > 3.11
 ## Usage
 
 Run the application:
